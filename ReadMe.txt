@@ -19,3 +19,6 @@ All the libraries requried to run the application:
 
 
 To run the app ; goto Terminal and execute 'streamlit run App.py' command
+
+If at all the API key is not working, please do visit : 'https://aistudio.google.com/app/apikey'
+and fetch for an API key and replace the key with already existing key in '.env' file 
